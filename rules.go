@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/go-playground/locales/currency"
+	"github.com/noxue/locales/currency"
 )
 
 // // ErrBadNumberValue is returned when the number passed for
